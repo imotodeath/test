@@ -1,7 +1,6 @@
 ### SPからのアクセスの人は...
 
-![](https://s3-ap-northeast-1.amazonaws.com/kufutools-codimd/uploads/upload_d745de1100cc447875aeb976b522bb9c.jpg)
-
+![](https://s3-ap-northeast-1.amazonaws.com/kufutools-codimd/uploads/upload_df5284ef32470a35858ec9e7e8f2c69b.jpg)
 
 
 # 歴史に残る模範的なソフトウェアをつくろう
