@@ -2,6 +2,9 @@
 #### 📝スマホからアクセスの人は...まずはREADME読んでねー
 ----
 
+![](https://s3-ap-northeast-1.amazonaws.com/kufutools-codimd/uploads/upload_496c8187b9176502c437ecb2d57cb8f8.gif)
+
+
 # 歴史に残る模範的なソフトウェアをつくろう
 
 
